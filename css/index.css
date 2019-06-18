@@ -41,7 +41,7 @@ a, a:hover, a:active, a:focus {
     height: 100%;
     width: 100%;
     border: 1px solid #0277BD;
-    padding: 16px 20px;
+    padding: 10px 20px;
     transition: all .1s;
 }
 
@@ -58,15 +58,12 @@ a, a:hover, a:active, a:focus {
 }
 .gallery__side_chooseImage {
     width: 100%;
-    display: flex;
     margin-top: 20px;
-    flex-wrap: wrap;
     background: #fff;
-    justify-content: space-between;
 }
 
 .gallery__image {
-    width: 200px;
+    width: 260px;
     height: 150px;
     margin-bottom: 10px;
     margin-right: 10px;
